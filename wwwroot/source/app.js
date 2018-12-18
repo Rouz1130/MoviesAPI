@@ -1,12 +1,16 @@
-import React from 'react'
-
-class Movie extends React.Component {
-    render() {
-        return (
-            <div>{this.props.movieName} ({this.props.movieYear}) 
-            </div>
-        );
-    }
-};
-
-export default Movie;
+import React from 'react';
+import ReactDOM from 'react-dom';
+import MovieList from './movieList.jsx';
+class App extends React.Component {
+     render() {
+          return (
+               <div>
+                    <MovieList url="/api/movies" />
+               </div>
+          );
+     }
+}
+ReactDOM.render(
+     <App />,
+     document.getElementById('container')
+);
