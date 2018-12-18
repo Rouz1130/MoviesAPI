@@ -2,8 +2,11 @@
     "name": "moviesapi",
     "version": "1.0.0",
     "private": true,
-    "devDependencies": {
-        "webpack": "^3.8.1"
+    "scripts": {
+        "wbp": "webpack"
     },
-    "dependencies": {}
-}
+    "devDependencies": {
+    },
+    "dependencies": {
+    }
+  }
