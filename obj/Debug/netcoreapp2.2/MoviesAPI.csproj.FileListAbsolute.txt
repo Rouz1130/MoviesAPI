@@ -1,0 +1,14 @@
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/bin/Debug/netcoreapp2.2/MoviesAPI.deps.json
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/bin/Debug/netcoreapp2.2/MoviesAPI.runtimeconfig.json
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/bin/Debug/netcoreapp2.2/MoviesAPI.runtimeconfig.dev.json
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/bin/Debug/netcoreapp2.2/MoviesAPI.dll
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/bin/Debug/netcoreapp2.2/MoviesAPI.pdb
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.csprojAssemblyReference.cache
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.csproj.CoreCompileInputs.cache
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.RazorAssemblyInfo.cache
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.RazorAssemblyInfo.cs
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.AssemblyInfoInputs.cache
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.AssemblyInfo.cs
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.RazorTargetAssemblyInfo.cache
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.dll
+/Users/rouz/Documents/CodingProjects/AspNet/MoviesAPI/obj/Debug/netcoreapp2.2/MoviesAPI.pdb
