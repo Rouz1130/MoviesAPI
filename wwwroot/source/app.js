@@ -14,3 +14,4 @@ ReactDOM.render(
      <App />,
      document.getElementById('container')
 );
+module.hot.accept();
