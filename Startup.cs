@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.SpaServices.Webpack;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using MoviesAPI.Services;
@@ -21,7 +22,17 @@ namespace MoviesAPI
                if (env.IsDevelopment())
                {
                     app.UseDeveloperExceptionPage();
+
+                    var options = new WebpackDevMiddlewareOptions()
+               {
+                    HotModuleReplacement = true
+               };
+               app.UseWebpackDevMiddleware(options);
+
                }
+
+
+
                app.UseStaticFiles();
 
                moviesDbContext.CreateSeedData();
